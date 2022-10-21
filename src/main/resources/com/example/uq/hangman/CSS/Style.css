@@ -1,0 +1,23 @@
+.hb-background{
+    -fx-background-color: Transparent;
+    -fx-border-radius: 10;
+    -fx-border-color: white;
+
+}
+#pane{
+    -fx-background-color:#d2cd50;
+}
+#palabraBox {
+    -fx-border-color: #E6E4A0;
+    -fx-border-width: 8;
+    -fx-border-radius: 5 5 5 5;
+}
+#categoriaBox {
+    -fx-background-color: #E5E2A1;
+    -fx-background-radius: 9 9 9 9;
+}
+
+#btonSalir {
+    -fx-background-color:#ec3a12;
+}
+
